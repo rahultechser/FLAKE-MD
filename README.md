@@ -1,1 +1,7 @@
 # RAHUL-MD
+
+#SCAN QR
+
+#DEPLOY 
+
+
