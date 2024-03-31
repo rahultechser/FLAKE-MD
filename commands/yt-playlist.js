@@ -80,8 +80,8 @@ yts( opts, async function ( err, playlist ) {
                                 thumbnail: log0,
                                 renderLargerThumbnail: true,
                                 mediaType: 2,
-                                mediaUrl: 'https://github.com/X-S-L-A-S-H-E-R/Secktor-2.0',
-                                sourceUrl: 'https://github.com/X-S-L-A-S-H-E-R/Secktor-2.0'
+                                mediaUrl: 'https://github.com/Tahul121/RAHUL-MD',
+                                sourceUrl: 'https://github.comTahul121/RAHUL-MF'
                             }
                         }
                     }
