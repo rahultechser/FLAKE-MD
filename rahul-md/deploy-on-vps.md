@@ -25,7 +25,7 @@
 
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/Tahul121/RAHULMD
+      git clone https://github.com/Tahul121/RAHUL-MD
       cd RAHUL-MD
       yarn install --network-concurrency 1
       ```
@@ -44,7 +44,7 @@
       THUMB_IMAGE = "https://telegra.ph/file/a674ac6df55d0eb0f35a9.jpg"
       port = 5000
       email = "rsstatus004@gmail.com"
-      global_url = "insta url here"
+      global_url = "https://www.instagram.com/_________rahul004_________?igsh=MTYyNWVmejAwejN1aA=="
       OWNER_NAME = "name"
       AUTO_REACTION = false
       FAKE_COUNTRY_CODE = 212
