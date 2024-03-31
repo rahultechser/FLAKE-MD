@@ -25,8 +25,8 @@
 
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/naveeddogar/KING-MD
-      cd KING-MD
+      git clone https://github.com/Tahul121/RAHULMD
+      cd RAHUL-MD
       yarn install --network-concurrency 1
       ```
 
@@ -38,14 +38,14 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="923096566451"
-      MONGODB_URI="mongodb+srv://secktorbotnew:sampandeyxahil@x-s-l-a-s-h-e-r.hmrqazm.mongodb.net/?retryWrites=true&w=majority"
+      OWNER_NUMBER="919547261290"
+      MONGODB_URI=mongodb+srv://rahul:rahul@cluster0.ik98tiw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
       SESSION_ID = "ID-here"
-      THUMB_IMAGE = "https://i.ibb.co/GkbRsdF/secktor-high-resolution-logo-black-on-white-background.png"
+      THUMB_IMAGE = "https://telegra.ph/file/a674ac6df55d0eb0f35a9.jpg"
       port = 5000
-      email = "textnow1pak@gmail.com"
+      email = "rsstatus004@gmail.com"
       global_url = "insta url here"
-      OWNER_NAME = "Naveed Dogar"
+      OWNER_NAME = "name"
       AUTO_REACTION = false
       FAKE_COUNTRY_CODE = 212
       READ_MESSAGE = false
@@ -55,9 +55,9 @@
       ANTI_BAD_WORD = "fuck"
       LEVEL_UP_MESSAGE= true
       WELCOME_MESSAGE =  "*Hi,* @user \n*Welcome in* @gname \n*Member count* : @count th"
-      THEME= SECKTOR-2.0
+      THEME= RAHUL-MD
       WORKTYPE = public
-      PACK_INFO = "Naveed;King-Md"
+      PACK_INFO = "Rahul;Bot-Md"
       ANTILINK_VALUES = "chat.whatsapp.com"
       
       ```
