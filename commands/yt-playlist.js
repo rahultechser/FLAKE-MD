@@ -7,7 +7,7 @@
  You may not use this file except in compliance with the License.    
  It is supplied in the hope that it may be useful                                     
  * @project_name : RAHUL-MD                                                                    
- * @author : Tahul121t <https://github.com/Tahul121>   
+ * @author : Tahul121 <https://github.com/Tahul121>   
  * @description : RAHUL-MD ,A Multi-functional whatsapp bot.       
  * @version 1.0.1                                                                                             
  ========================================================
