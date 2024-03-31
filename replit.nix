@@ -4,7 +4,7 @@
         pkgs.nodePackages.typescript
         pkgs.imagemagick
         pkgs.yarn
-        pkgs.git
+        pkgs.gitb
         pkgs.ffmpeg
         pkgs.neofetch
         pkgs.libwebp
