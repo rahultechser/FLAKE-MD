@@ -1,5 +1,5 @@
 while true
 do
-echo "Starting RAHU-MD..."
+echo "Starting RAHUL-MD..."
 node lib/client.js
 done
