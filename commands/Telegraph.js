@@ -9,7 +9,7 @@
  It is supplied in the hope that it may be useful                                     
  * @project_name : RAHUL-MD                                                                    
  * @author : Tahul121 <https://github.com/Tahul121>   
- * @description : RAHUL-D ,A Multi-functional whatsapp bot.       
+ * @description : RAHUL-MD ,A Multi-functional whatsapp bot.       
  * @version 1.0.1                                                                                             
  ========================================================
  **/
