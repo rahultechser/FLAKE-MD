@@ -26,7 +26,7 @@
    5. Clone Repo and install required packages
       ```
       git clone https://github.com/Tahul121/RAHUL-MD
-      cd RAHUL-MD
+      cd RAHUL-MD npm cd
       yarn install --network-concurrency 1
       ```
 
