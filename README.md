@@ -47,7 +47,7 @@
 
 `2. Scan Qr Code`
     <br>
-<a href='https://rahul-mdqr.com' target="_blank"><img alt='SCAN QR CODE' src='https://img.shields.io/badge/Scan_Qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://rahul-mdqr.onrender.com' target="_blank"><img alt='SCAN QR CODE' src='https://img.shields.io/badge/Scan_Qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 ## 🔥 `Now Deploy`
 #### DEPLOY TO HEROKU 
