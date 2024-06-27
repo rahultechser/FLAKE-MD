@@ -1,15 +1,15 @@
 {
-               "name": "king-md",
-               "version": "1.2.9",
-               "description": "Multi Device WhatsApp Bot by Naveed Dogar.",
+               "name": "rahul-md",
+               "version": "1.0.0",
+               "description": "Multi Device WhatsApp Bot by Rahul",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "Apache-2.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name KING-MD",
-                "stop": "pm2 stop KING-MD"
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name RAHUL-MD",
+                "stop": "pm2 stop RAHUL-MD"
                 },
-               "author": "naveeddogar",
+               "author": "Tahul121",
               "dependencies": {
                        "@whiskeysockets/baileys": "6.5.0", 
                        "@adiwajshing/keyed-db": "^0.2.4",
@@ -69,10 +69,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/TechnicalNaveed5/KING-TEST.git"
+                 "url": "git+https://github.com/Tahul121/RAHUL-MD.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/TechnicalNaveed5/KING-TEST/issues"
+                 "url": "https://github.com/Tahul121/RAHUL-MD/issues"
                   },
-                 "homepage": "https://github.com/TechnicalNaveed5/KING-TEST#readme"
+                 "homepage": "https://github.com/Tahul121/RAHUL-MD#readme"
                   }
