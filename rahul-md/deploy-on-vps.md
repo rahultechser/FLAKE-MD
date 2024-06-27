@@ -50,7 +50,7 @@
       FAKE_COUNTRY_CODE = 212
       READ_MESSAGE = false
       PREFIX = .
-      WARN_COUNT = 3
+      WARN_COUNT = 4
       DISABLE_PM = false
       ANTI_BAD_WORD = "fuck"
       LEVEL_UP_MESSAGE= true
