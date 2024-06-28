@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/C7PFcSRmRI9Enbda8Cikqu">
-    <img alt=Support height="350" src="https://telegra.ph/file/a674ac6df55d0eb0f35a9.jpg"> 
+    <img alt=Support height="350" src="https://telegra.ph/file/3569f630b0ca83652b49e.jpg"> 
     </p>
 
   
@@ -47,7 +47,7 @@
 
 `2. Scan Qr Code`
     <br>
-<a href='https://rahul-mdqr.onrender.com' target="_blank"><img alt='SCAN QR CODE' src='https://img.shields.io/badge/Scan_Qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://rahulqr.onrender.com/' target="_blank"><img alt='SCAN QR CODE' src='https://img.shields.io/badge/Scan_Qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 ## 🔥 `Now Deploy`
 #### DEPLOY TO HEROKU 
