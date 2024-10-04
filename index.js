@@ -96,7 +96,7 @@ async function start() {
             } else if (connection === 'open') {
                 if (initialConnection) {
                     console.log(chalk.green("🌐 INTEGRATION SUCCESSFUL️ ✅"));
-                    Matrix.sendMessage(Matrix.user.id, { url : `https://files.catbox.moe/5de9kr.jpg` } , caption : `*Rahul-Md Connected To WhatsApp* 📍\n\n_This is the result of our team's hard work and our team owns the bot's rights and code rights. Therefore, you have no chance to change and submit our bot under any circumstances._\n\n☠️ *Official GitHub* - ```https://github.com/rahultechser```\n\n🪀 *WhatsApp Group* - ```https://rb.gy/arxc24```\n\n👻 *Announcement Channel* - ```https://rb.gy/pvsq3z```\n\n*ᴏꜰꜰɪᴄɪᴀʟ*\n*ᴀʟʟ ʀɪɢʜᴛ ʀᴇꜱᴇʀᴠᴇᴅ - ᴛᴇᴀᴍ*` });
+                    Matrix.sendMessage(Matrix.user.id, { url : `https://files.catbox.moe/5de9kr.jpg` } , caption : `FLAKE MD CONNECTED SUCCESSFULLY 🌐` });
                     initialConnection = false;
                 } else {
                     console.log(chalk.blue("♻️ Connection reestablished after restart."));
