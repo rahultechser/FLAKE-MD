@@ -95,7 +95,7 @@ async function start() {
                 }
             } else if (connection === 'open') {
                 if (initialConnection) {
-                    console.log(chalk.green("🌐 Integration Successful️ ✅"));
+                    console.log(chalk.green("🌐 INTEGRATION SUCCESSFUL️ ✅"));
                     Matrix.sendMessage(Matrix.user.id, { text: `😃 Integration Successful️ ✅` });
                     initialConnection = false;
                 } else {
