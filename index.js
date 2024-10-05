@@ -96,7 +96,7 @@ async function start() {
             } else if (connection === 'open') {
                 if (initialConnection) {
                     console.log(chalk.green("🌐 INTEGRATION SUCCESSFUL️ ✅"));
-                    Matrix.sendMessage(Matrix.user.id, { url : `https://files.catbox.moe/5de9kr.jpg` } , caption : `FLAKE MD CONNECTED SUCCESSFULLY 🌐` });
+                    Matrix.sendMessage(Matrix.user.id, { text: `😃 Integration Successful️ ✅` });
                     initialConnection = false;
                 } else {
                     console.log(chalk.blue("♻️ Connection reestablished after restart."));
