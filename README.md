@@ -4,6 +4,6 @@
   
 </p>
 <p align="center">
-  <a href="https://i.imgur.com/CUnggUV.jpeg">
+  <a href="">
     <img alt=Support height="350" src="[https://i.imgur.com/CUnggUV.jpeg"> 
     </p>
