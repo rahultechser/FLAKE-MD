@@ -7,11 +7,11 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
 
   if (cmd === "ping") {
     const start = new Date().getTime();
-    await m.React('⚡');
+    await m.React('📡');
     const end = new Date().getTime();
     const responseTime = (end - start) / 1000;
 
-    const text = `*_🔥⃝вσт ѕρєє∂: ${responseTime.toFixed(2)} s_*`;
+    const text = `*FLAKE MD PING ${responseTime.toFixed(2)} MS ⚙️*`;
     sock.sendMessage(m.from, { text }, { quoted: m });
   }
 }
