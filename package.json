@@ -1,7 +1,7 @@
 {
   "name": "FLAKE-MD",
   "version": "1.0.0",
-  "description": "FLAKE-MD latest multi device whatsapp bot",
+  "description": "FLAKE-MD latest multi device whatsapp bot.",
   "main": "index.js",
   "type": "module",
   "scripts": {
